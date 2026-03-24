@@ -22,6 +22,12 @@ XboxManager é um utilitário Windows desenvolvido para gerenciamento, transfer�
 
 ---
 
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-green)
+![Status](https://img.shields.io/badge/status-active-success)
+
+---
+
 ## 📥 Download
 
 Baixe a versão mais recente na seção Releases:
