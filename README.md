@@ -32,7 +32,9 @@ Baixe a versão mais recente na seção Releases:
 
 ## 👨‍💻 Desenvolvedor
 
-**Ishimura**
+Ishimura
+
+Ferramenta desenvolvida para facilitar o gerenciamento de consoles Xbox.
 
 ---
 
